@@ -1,0 +1,41 @@
+{
+  "name": "abyssal-light-keeper",
+  "version": "1.0.0",
+  "description": "Offers a solution for content management and distribution, streamlining the publishing process for blogs, news, and media websites.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/knaraetkaerb/abyssal-light-keeper"
+  },
+  "author": "knaraetkaerb",
+  "license": "MIT",
+  "dependencies": {
+    "blocksage": "1.0.0",
+    "zolotaya-chasha-zolotaya": "1.0.0",
+    "beacon-phantom-detector": "1.0.0",
+    "celestial-orbit-tracker": "1.0.0",
+    "passport": "1.0.0",
+    "ethereumjs-tx": "1.0.0",
+    "ejs": "1.0.0",
+    "jest": "1.0.0",
+    "eslint": "1.0.0",
+    "multer": "1.0.0",
+    "supertest": "1.0.0",
+    "cheerio": "1.0.0",
+    "eth-crypto": "1.0.0",
+    "bcrypt": "1.0.0",
+    "redux": "1.0.0",
+    "moment": "1.0.0",
+    "socket.io": "1.0.0",
+    "ethereumjs-util": "1.0.0",
+    "helmet": "1.0.0",
+    "nodemon": "1.0.0",
+    "request": "1.0.0",
+    "jquery": "1.0.0",
+    "fs-extra": "1.0.0",
+    "ipfs-http-client": "1.0.0"
+  }
+}
